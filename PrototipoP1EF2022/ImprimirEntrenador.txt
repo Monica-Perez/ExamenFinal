@@ -1,0 +1,2 @@
+Codigo        Nombre          2doNombre     Apellido            2doApellido       Nacimiento
+2                 Carlos         Ruben          Ralda          Gomez          10/2/19991

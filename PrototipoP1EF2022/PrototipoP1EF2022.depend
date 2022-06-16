@@ -1,0 +1,106 @@
+# depslib dependency file v1.0
+1655394864 source:c:\users\monica pérez\desktop\progra i\prototipop1ef2022\src\datosusuarios.cpp
+	"DatosUsuarios.h"
+	"Usuarios.h"
+	<cstring>
+	<iostream>
+
+1655394864 c:\users\monica pérez\desktop\progra i\prototipop1ef2022\include\datosusuarios.h
+	<iostream>
+
+1655394463 c:\users\monica pérez\desktop\progra i\prototipop1ef2022\include\usuarios.h
+
+1655401621 source:c:\users\monica pérez\desktop\progra i\prototipop1ef2022\main.cpp
+	<iostream>
+	"Usuarios.h"
+	"Catalogos.h"
+	<ctime>
+	<vector>
+
+1655395534 source:c:\users\monica pérez\desktop\progra i\prototipop1ef2022\src\usuarios.cpp
+	"Usuarios.h"
+	"DatosUsuarios.h"
+	<iostream>
+	<cstdlib>
+	<conio.h>
+	<ctime>
+	<vector>
+	<fstream>
+	<iomanip>
+	<cstdlib>
+
+1655395794 c:\users\monica pérez\desktop\progra i\prototipop1ef2022\include\catalogos.h
+
+1655403395 source:c:\users\monica pérez\desktop\progra i\prototipop1ef2022\src\entrenador.cpp
+	"Entrenador.h"
+	"DatosEntrenador.h"
+	<iostream>
+	<ctime>
+	<vector>
+	<fstream>
+	<iomanip>
+	<cstdlib>
+
+1655396691 c:\users\monica pérez\desktop\progra i\prototipop1ef2022\include\entrenador.h
+
+1655404388 source:c:\users\monica pérez\desktop\progra i\prototipop1ef2022\src\catalogos.cpp
+	"Catalogos.h"
+	"Entrenador.h"
+	"Puestos.h"
+	"Equipo.h"
+	<iostream>
+	<ctime>
+	<vector>
+	<fstream>
+	<iomanip>
+	<cstdlib>
+
+1655399564 source:c:\users\monica pérez\desktop\progra i\prototipop1ef2022\src\datosentrenador.cpp
+	"DatosEntrenador.h"
+	"Entrenador.h"
+	<cstring>
+	<iostream>
+
+1655399564 c:\users\monica pérez\desktop\progra i\prototipop1ef2022\include\datosentrenador.h
+	<iostream>
+
+1655402743 source:c:\users\monica pérez\desktop\progra i\prototipop1ef2022\src\datospuestos.cpp
+	"DatosPuestos.h"
+	<cstring>
+	<iostream>
+
+1655402715 c:\users\monica pérez\desktop\progra i\prototipop1ef2022\include\datospuestos.h
+	<iostream>
+
+1655401485 c:\users\monica pérez\desktop\progra i\prototipop1ef2022\include\puestos.h
+
+1655403443 source:c:\users\monica pérez\desktop\progra i\prototipop1ef2022\src\puestos.cpp
+	"Puestos.h"
+	"DatosPuestos.h"
+	<iostream>
+	<ctime>
+	<vector>
+	<fstream>
+	<iomanip>
+	<cstdlib>
+
+1655403632 c:\users\monica pérez\desktop\progra i\prototipop1ef2022\include\equipo.h
+
+1655405084 source:c:\users\monica pérez\desktop\progra i\prototipop1ef2022\src\equipo.cpp
+	"Equipo.h"
+	"DatosEquipo.h"
+	<iostream>
+	<ctime>
+	<vector>
+	<fstream>
+	<iomanip>
+	<cstdlib>
+
+1655404388 c:\users\monica pérez\desktop\progra i\prototipop1ef2022\include\datosequipo.h
+	<iostream>
+
+1655404721 source:c:\users\monica pérez\desktop\progra i\prototipop1ef2022\src\datosequipo.cpp
+	"DatosEquipo.h"
+	<cstring>
+	<iostream>
+
