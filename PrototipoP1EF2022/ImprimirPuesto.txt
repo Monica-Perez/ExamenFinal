@@ -1,0 +1,2 @@
+Codigo        Nombre         Salario       
+1                 Coachgosto      5300          
