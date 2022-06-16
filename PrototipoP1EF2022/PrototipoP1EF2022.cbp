@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="PrototipoP1EF2022" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/PrototipoP1EF2022" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+					<Add directory="include" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/PrototipoP1EF2022" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+					<Add directory="include" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="include/Catalogos.h" />
+		<Unit filename="include/DatosEntrenador.h" />
+		<Unit filename="include/DatosEquipo.h" />
+		<Unit filename="include/DatosPuestos.h" />
+		<Unit filename="include/DatosUsuarios.h" />
+		<Unit filename="include/Entrenador.h" />
+		<Unit filename="include/Equipo.h" />
+		<Unit filename="include/Puestos.h" />
+		<Unit filename="include/Usuarios.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="src/Catalogos.cpp" />
+		<Unit filename="src/DatosEntrenador.cpp" />
+		<Unit filename="src/DatosEquipo.cpp" />
+		<Unit filename="src/DatosPuestos.cpp" />
+		<Unit filename="src/DatosUsuarios.cpp" />
+		<Unit filename="src/Entrenador.cpp" />
+		<Unit filename="src/Equipo.cpp" />
+		<Unit filename="src/Puestos.cpp" />
+		<Unit filename="src/Usuarios.cpp" />
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
